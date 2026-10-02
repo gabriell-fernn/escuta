@@ -1,0 +1,5 @@
+export type RankedArtist={id:number;name:string;fans:number};
+export const DIFFICULTY_IDS=['easy','medium','hard','expert','impossible'];
+export function artistTier(artists:RankedArtist[],level:string){const index=DIFFICULTY_IDS.indexOf(level);if(index<0)return [];const unique=[...new Map(artists.filter(a=>Number.isFinite(a.fans)&&a.fans>=0).map(a=>[a.id,a])).values()].sort((a,b)=>b.fans-a.fans||a.id-b.id);const start=Math.floor(index*unique.length/5),end=Math.floor((index+1)*unique.length/5);return unique.slice(start,end)}
+export function songTier<T extends {rank:number}>(songs:T[],level:string){const i=DIFFICULTY_IDS.indexOf(level);if(i<0)return [];const sorted=[...songs].sort((a,b)=>b.rank-a.rank);const fractions=[0,0.05,0.2,0.45,0.75,1];const bounds=[0];for(let k=1;k<=5;k++){const target=Math.round(fractions[k]*sorted.length);const floor=k===1?Math.min(1,sorted.length):0;bounds.push(Math.max(bounds[k-1],Math.max(target,floor)))}return sorted.slice(bounds[i],bounds[i+1])}
+export function shuffled<T>(items:T[]){const copy=[...items];for(let i=copy.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[copy[i],copy[j]]=[copy[j],copy[i]]}return copy}

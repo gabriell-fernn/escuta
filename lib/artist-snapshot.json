@@ -1,0 +1,1098 @@
+{
+  "source": "Deezer artist nb_fan",
+  "capturedAt": "2026-10-01T11:38:45.287321+00:00",
+  "genres": {
+    "pop": [
+      {
+        "id": 259,
+        "name": "Michael Jackson",
+        "fans": 13163469
+      },
+      {
+        "id": 290,
+        "name": "Madonna",
+        "fans": 4913052
+      },
+      {
+        "id": 12246,
+        "name": "Taylor Swift",
+        "fans": 12736987
+      },
+      {
+        "id": 8706544,
+        "name": "Dua Lipa",
+        "fans": 8787014
+      },
+      {
+        "id": 75491,
+        "name": "Lady Gaga",
+        "fans": 9295668
+      },
+      {
+        "id": 483,
+        "name": "Britney Spears",
+        "fans": 5457436
+      },
+      {
+        "id": 1562681,
+        "name": "Ariana Grande",
+        "fans": 13435705
+      },
+      {
+        "id": 144227,
+        "name": "Katy Perry",
+        "fans": 9793936
+      },
+      {
+        "id": 429675,
+        "name": "Bruno Mars",
+        "fans": 12804338
+      },
+      {
+        "id": 75798,
+        "name": "Adele",
+        "fans": 15482997
+      },
+      {
+        "id": 384236,
+        "name": "Ed Sheeran",
+        "fans": 20924061
+      },
+      {
+        "id": 180,
+        "name": "ABBA",
+        "fans": 3190983
+      },
+      {
+        "id": 413,
+        "name": "Elton John",
+        "fans": 3002761
+      },
+      {
+        "id": 160,
+        "name": "Shakira",
+        "fans": 11737050
+      },
+      {
+        "id": 2025,
+        "name": "Cyndi Lauper",
+        "fans": 1050298
+      },
+      {
+        "id": 3098,
+        "name": "George Michael",
+        "fans": 1501532
+      },
+      {
+        "id": 288166,
+        "name": "Justin Bieber",
+        "fans": 11162125
+      },
+      {
+        "id": 12436,
+        "name": "Miley Cyrus",
+        "fans": 7243069
+      },
+      {
+        "id": 1176900,
+        "name": "Sabrina Carpenter",
+        "fans": 1820150
+      },
+      {
+        "id": 5313805,
+        "name": "Harry Styles",
+        "fans": 2199827
+      },
+      {
+        "id": 9635624,
+        "name": "Billie Eilish",
+        "fans": 9264541
+      },
+      {
+        "id": 11152580,
+        "name": "Olivia Rodrigo",
+        "fans": 1830806
+      },
+      {
+        "id": 69925,
+        "name": "P!nk",
+        "fans": 4663725
+      },
+      {
+        "id": 116,
+        "name": "Christina Aguilera",
+        "fans": 3914282
+      },
+      {
+        "id": 10468777,
+        "name": "Magdalena Bay",
+        "fans": 19527
+      },
+      {
+        "id": 5587890,
+        "name": "Allie X",
+        "fans": 38799
+      },
+      {
+        "id": 4680004,
+        "name": "Rina Sawayama",
+        "fans": 67198
+      },
+      {
+        "id": 4631793,
+        "name": "Caroline Polachek",
+        "fans": 49855
+      },
+      {
+        "id": 4037794,
+        "name": "Empress Of",
+        "fans": 6567
+      },
+      {
+        "id": 304572,
+        "name": "Shura",
+        "fans": 20528
+      },
+      {
+        "id": 270499,
+        "name": "Georgia",
+        "fans": 4048
+      },
+      {
+        "id": 513757,
+        "name": "Florrie",
+        "fans": 23159
+      },
+      {
+        "id": 4059799,
+        "name": "Laura Mvula",
+        "fans": 23972
+      },
+      {
+        "id": 5509301,
+        "name": "Låpsley",
+        "fans": 17792
+      },
+      {
+        "id": 4979486,
+        "name": "Tei Shi",
+        "fans": 7762
+      },
+      {
+        "id": 1520407,
+        "name": "Christine and the Queens",
+        "fans": 683304
+      }
+    ],
+    "hiphop": [
+      {
+        "id": 13,
+        "name": "Eminem",
+        "fans": 19126952
+      },
+      {
+        "id": 525046,
+        "name": "Kendrick Lamar",
+        "fans": 6178369
+      },
+      {
+        "id": 246791,
+        "name": "Drake",
+        "fans": 24096140
+      },
+      {
+        "id": 230,
+        "name": "Kanye West",
+        "fans": 4549385
+      },
+      {
+        "id": 1309,
+        "name": "JAY Z",
+        "fans": 3577732
+      },
+      {
+        "id": 167095,
+        "name": "2Pac",
+        "fans": 4131873
+      },
+      {
+        "id": 2519,
+        "name": "The Notorious B.I.G.",
+        "fans": 1962822
+      },
+      {
+        "id": 3,
+        "name": "Snoop Dogg",
+        "fans": 7970152
+      },
+      {
+        "id": 73,
+        "name": "Nas",
+        "fans": 1213337
+      },
+      {
+        "id": 66,
+        "name": "50 Cent",
+        "fans": 7870869
+      },
+      {
+        "id": 9,
+        "name": "Outkast",
+        "fans": 920571
+      },
+      {
+        "id": 382937,
+        "name": "Nicki Minaj",
+        "fans": 7409831
+      },
+      {
+        "id": 9064930,
+        "name": "Cardi B",
+        "fans": 2600499
+      },
+      {
+        "id": 4495513,
+        "name": "Travis Scott",
+        "fans": 3144672
+      },
+      {
+        "id": 339209,
+        "name": "J. Cole",
+        "fans": 2745481
+      },
+      {
+        "id": 91,
+        "name": "Missy Elliott",
+        "fans": 844832
+      },
+      {
+        "id": 127408692,
+        "name": "Lauryn Hill",
+        "fans": 1761
+      },
+      {
+        "id": 273,
+        "name": "Wu-Tang Clan",
+        "fans": 1258268
+      },
+      {
+        "id": 194746,
+        "name": "Beastie Boys",
+        "fans": 688250
+      },
+      {
+        "id": 4488457,
+        "name": "Racionais MC's",
+        "fans": 2158729
+      },
+      {
+        "id": 4033307,
+        "name": "Emicida",
+        "fans": 1289118
+      },
+      {
+        "id": 2531001,
+        "name": "Criolo",
+        "fans": 803007
+      },
+      {
+        "id": 1194083,
+        "name": "Tyler, The Creator",
+        "fans": 1381800
+      },
+      {
+        "id": 1862,
+        "name": "A Tribe Called Quest",
+        "fans": 315208
+      },
+      {
+        "id": 254849,
+        "name": "Billy Woods",
+        "fans": 5985
+      },
+      {
+        "id": 286094,
+        "name": "Ka",
+        "fans": 18876
+      },
+      {
+        "id": 142759,
+        "name": "Mike",
+        "fans": 6174
+      },
+      {
+        "id": 432085,
+        "name": "Mavi",
+        "fans": 6239
+      },
+      {
+        "id": 86114,
+        "name": "Navy Blue",
+        "fans": 2840
+      },
+      {
+        "id": 4026989,
+        "name": "Quelle Chris",
+        "fans": 2624
+      },
+      {
+        "id": 390193,
+        "name": "Open Mike Eagle",
+        "fans": 4183
+      },
+      {
+        "id": 1313917,
+        "name": "Roc Marciano",
+        "fans": 14679
+      },
+      {
+        "id": 5241563,
+        "name": "Armand Hammer",
+        "fans": 3714
+      },
+      {
+        "id": 4578590,
+        "name": "Little Simz",
+        "fans": 102389
+      },
+      {
+        "id": 1017307,
+        "name": "Danny Brown",
+        "fans": 55558
+      },
+      {
+        "id": 4073450,
+        "name": "Earl Sweatshirt",
+        "fans": 104121
+      }
+    ],
+    "rock": [
+      {
+        "id": 412,
+        "name": "Queen",
+        "fans": 12819636
+      },
+      {
+        "id": 1,
+        "name": "The Beatles",
+        "fans": 8135842
+      },
+      {
+        "id": 11,
+        "name": "The Rolling Stones",
+        "fans": 7103898
+      },
+      {
+        "id": 848,
+        "name": "Led Zeppelin",
+        "fans": 5544343
+      },
+      {
+        "id": 860,
+        "name": "Pink Floyd",
+        "fans": 6823114
+      },
+      {
+        "id": 415,
+        "name": "Nirvana",
+        "fans": 10079962
+      },
+      {
+        "id": 399,
+        "name": "Radiohead",
+        "fans": 4098379
+      },
+      {
+        "id": 566,
+        "name": "Foo Fighters",
+        "fans": 4592492
+      },
+      {
+        "id": 892,
+        "name": "Coldplay",
+        "fans": 18404227
+      },
+      {
+        "id": 92,
+        "name": "Linkin Park",
+        "fans": 12238056
+      },
+      {
+        "id": 182,
+        "name": "Red Hot Chili Peppers",
+        "fans": 7704691
+      },
+      {
+        "id": 52,
+        "name": "Green Day",
+        "fans": 5240596
+      },
+      {
+        "id": 1182,
+        "name": "Arctic Monkeys",
+        "fans": 4964454
+      },
+      {
+        "id": 897,
+        "name": "The Killers",
+        "fans": 2239282
+      },
+      {
+        "id": 927,
+        "name": "Oasis",
+        "fans": 4702708
+      },
+      {
+        "id": 569,
+        "name": "The Strokes",
+        "fans": 1753802
+      },
+      {
+        "id": 705,
+        "name": "Muse",
+        "fans": 5045757
+      },
+      {
+        "id": 10977,
+        "name": "Paramore",
+        "fans": 3149770
+      },
+      {
+        "id": 129,
+        "name": "R.E.M.",
+        "fans": 2665532
+      },
+      {
+        "id": 163,
+        "name": "U2",
+        "fans": 7339875
+      },
+      {
+        "id": 15810,
+        "name": "Legião Urbana",
+        "fans": 2908997
+      },
+      {
+        "id": 8691,
+        "name": "Charlie Brown Jr.",
+        "fans": 3981255
+      },
+      {
+        "id": 663,
+        "name": "Guns N' Roses",
+        "fans": 8604375
+      },
+      {
+        "id": 381,
+        "name": "The Cure",
+        "fans": 2535362
+      },
+      {
+        "id": 805030,
+        "name": "Squid",
+        "fans": 10236
+      },
+      {
+        "id": 12929461,
+        "name": "black midi",
+        "fans": 16870
+      },
+      {
+        "id": 57777292,
+        "name": "Black Country, New Road",
+        "fans": 23253
+      },
+      {
+        "id": 4541009,
+        "name": "Protomartyr",
+        "fans": 9992
+      },
+      {
+        "id": 10236730,
+        "name": "Preoccupations",
+        "fans": 5049
+      },
+      {
+        "id": 135227,
+        "name": "Women",
+        "fans": 1224
+      },
+      {
+        "id": 6051,
+        "name": "Deerhoof",
+        "fans": 11954
+      },
+      {
+        "id": 5704063,
+        "name": "Ought",
+        "fans": 4817
+      },
+      {
+        "id": 1150958,
+        "name": "Iceage",
+        "fans": 8993
+      },
+      {
+        "id": 11263136,
+        "name": "shame",
+        "fans": 18289
+      },
+      {
+        "id": 87096062,
+        "name": "Wednesday",
+        "fans": 3705
+      },
+      {
+        "id": 75865262,
+        "name": "Horsegirl",
+        "fans": 3729
+      }
+    ],
+    "rnb": [
+      {
+        "id": 145,
+        "name": "Beyoncé",
+        "fans": 12844311
+      },
+      {
+        "id": 564,
+        "name": "Rihanna",
+        "fans": 18079665
+      },
+      {
+        "id": 4050205,
+        "name": "The Weeknd",
+        "fans": 14712661
+      },
+      {
+        "id": 5531258,
+        "name": "SZA",
+        "fans": 1333744
+      },
+      {
+        "id": 17,
+        "name": "Usher",
+        "fans": 7221692
+      },
+      {
+        "id": 228,
+        "name": "Alicia Keys",
+        "fans": 5809008
+      },
+      {
+        "id": 1350335,
+        "name": "Frank Ocean",
+        "fans": 1267047
+      },
+      {
+        "id": 152,
+        "name": "Mary J. Blige",
+        "fans": 1525499
+      },
+      {
+        "id": 65,
+        "name": "Mariah Carey",
+        "fans": 3453781
+      },
+      {
+        "id": 174,
+        "name": "Whitney Houston",
+        "fans": 3929142
+      },
+      {
+        "id": 166,
+        "name": "Stevie Wonder",
+        "fans": 2445488
+      },
+      {
+        "id": 1154,
+        "name": "Marvin Gaye",
+        "fans": 1943335
+      },
+      {
+        "id": 5004,
+        "name": "D'Angelo",
+        "fans": 159165
+      },
+      {
+        "id": 2056,
+        "name": "Erykah Badu",
+        "fans": 426061
+      },
+      {
+        "id": 595,
+        "name": "Destiny's Child",
+        "fans": 1799467
+      },
+      {
+        "id": 183,
+        "name": "TLC",
+        "fans": 616142
+      },
+      {
+        "id": 206,
+        "name": "Aaliyah",
+        "fans": 795991
+      },
+      {
+        "id": 799,
+        "name": "Boyz II Men",
+        "fans": 651493
+      },
+      {
+        "id": 104,
+        "name": "Ne-Yo",
+        "fans": 3900794
+      },
+      {
+        "id": 102,
+        "name": "Chris Brown",
+        "fans": 9078191
+      },
+      {
+        "id": 8114447,
+        "name": "H.E.R.",
+        "fans": 999861
+      },
+      {
+        "id": 14482665,
+        "name": "Summer Walker",
+        "fans": 713388
+      },
+      {
+        "id": 1760,
+        "name": "Toni Braxton",
+        "fans": 935518
+      },
+      {
+        "id": 2376,
+        "name": "Maxwell",
+        "fans": 593304
+      },
+      {
+        "id": 1428258,
+        "name": "Cleo Sol",
+        "fans": 39273
+      },
+      {
+        "id": 5438687,
+        "name": "Sault",
+        "fans": 27792
+      },
+      {
+        "id": 8973774,
+        "name": "Ravyn Lenae",
+        "fans": 25034
+      },
+      {
+        "id": 5611807,
+        "name": "Yazmin Lacey",
+        "fans": 5587
+      },
+      {
+        "id": 10578093,
+        "name": "duendita",
+        "fans": 730
+      },
+      {
+        "id": 7904336,
+        "name": "Nao",
+        "fans": 29199
+      },
+      {
+        "id": 4648381,
+        "name": "Kelela",
+        "fans": 24261
+      },
+      {
+        "id": 805094,
+        "name": "Tirzah",
+        "fans": 4964
+      },
+      {
+        "id": 13217897,
+        "name": "Erika de Casier",
+        "fans": 4823
+      },
+      {
+        "id": 10191206,
+        "name": "Charlotte Day Wilson",
+        "fans": 9790
+      },
+      {
+        "id": 4736037,
+        "name": "JMSN",
+        "fans": 16262
+      },
+      {
+        "id": 6581343,
+        "name": "Jordan Rakei",
+        "fans": 18701
+      }
+    ],
+    "country": [
+      {
+        "id": 405,
+        "name": "Johnny Cash",
+        "fans": 1824525
+      },
+      {
+        "id": 8741,
+        "name": "Dolly Parton",
+        "fans": 456534
+      },
+      {
+        "id": 2947,
+        "name": "Willie Nelson",
+        "fans": 370782
+      },
+      {
+        "id": 3134,
+        "name": "Shania Twain",
+        "fans": 951980
+      },
+      {
+        "id": 8815,
+        "name": "Garth Brooks",
+        "fans": 63246
+      },
+      {
+        "id": 4388,
+        "name": "Carrie Underwood",
+        "fans": 516799
+      },
+      {
+        "id": 9626504,
+        "name": "Luke Combs",
+        "fans": 364226
+      },
+      {
+        "id": 343290,
+        "name": "Chris Stapleton",
+        "fans": 328759
+      },
+      {
+        "id": 399990,
+        "name": "Kacey Musgraves",
+        "fans": 77945
+      },
+      {
+        "id": 71855892,
+        "name": "Zach Bryan",
+        "fans": 123709
+      },
+      {
+        "id": 6464,
+        "name": "John Denver",
+        "fans": 207354
+      },
+      {
+        "id": 808,
+        "name": "Bob Dylan",
+        "fans": 2123457
+      },
+      {
+        "id": 1379,
+        "name": "Neil Young",
+        "fans": 830613
+      },
+      {
+        "id": 3283,
+        "name": "Joni Mitchell",
+        "fans": 115706
+      },
+      {
+        "id": 2707,
+        "name": "Simon & Garfunkel",
+        "fans": 1167311
+      },
+      {
+        "id": 288092,
+        "name": "Mumford & Sons",
+        "fans": 1061988
+      },
+      {
+        "id": 793825,
+        "name": "The Lumineers",
+        "fans": 926265
+      },
+      {
+        "id": 74444,
+        "name": "Fleet Foxes",
+        "fans": 165605
+      },
+      {
+        "id": 78668,
+        "name": "Bon Iver",
+        "fans": 549211
+      },
+      {
+        "id": 281865,
+        "name": "The Chicks",
+        "fans": 114288
+      },
+      {
+        "id": 2735,
+        "name": "Kenny Rogers",
+        "fans": 411871
+      },
+      {
+        "id": 8638,
+        "name": "Blake Shelton",
+        "fans": 737096
+      },
+      {
+        "id": 333,
+        "name": "Tim McGraw",
+        "fans": 379438
+      },
+      {
+        "id": 1459,
+        "name": "Faith Hill",
+        "fans": 186690
+      },
+      {
+        "id": 2062,
+        "name": "Nick Drake",
+        "fans": 103062
+      },
+      {
+        "id": 1278345,
+        "name": "Adrianne Lenker",
+        "fans": 68488
+      },
+      {
+        "id": 497139,
+        "name": "Jessica Pratt",
+        "fans": 6507
+      },
+      {
+        "id": 5441483,
+        "name": "Julie Byrne",
+        "fans": 2953
+      },
+      {
+        "id": 1218361,
+        "name": "Shirley Collins",
+        "fans": 671
+      },
+      {
+        "id": 7249,
+        "name": "Vashti Bunyan",
+        "fans": 20204
+      },
+      {
+        "id": 13157879,
+        "name": "Lankum",
+        "fans": 6262
+      },
+      {
+        "id": 555072,
+        "name": "Hurray for the Riff Raff",
+        "fans": 6770
+      },
+      {
+        "id": 6980,
+        "name": "Gillian Welch",
+        "fans": 16677
+      },
+      {
+        "id": 109798502,
+        "name": "Sierra Ferrell",
+        "fans": 6484
+      },
+      {
+        "id": 6081632,
+        "name": "Aldous Harding",
+        "fans": 23205
+      },
+      {
+        "id": 1126678,
+        "name": "Lisa O'Neill",
+        "fans": 2750
+      }
+    ],
+    "kpop": [
+      {
+        "id": 6982223,
+        "name": "BTS",
+        "fans": 3863541
+      },
+      {
+        "id": 10803980,
+        "name": "BLACKPINK",
+        "fans": 2652351
+      },
+      {
+        "id": 161553,
+        "name": "TWICE",
+        "fans": 1357055
+      },
+      {
+        "id": 88684,
+        "name": "EXO",
+        "fans": 441758
+      },
+      {
+        "id": 338654,
+        "name": "Red Velvet",
+        "fans": 799536
+      },
+      {
+        "id": 13923487,
+        "name": "Stray Kids",
+        "fans": 1271255
+      },
+      {
+        "id": 240582,
+        "name": "SEVENTEEN",
+        "fans": 644099
+      },
+      {
+        "id": 50306442,
+        "name": "NCT 127",
+        "fans": 502176
+      },
+      {
+        "id": 1377613,
+        "name": "SHINee",
+        "fans": 480218
+      },
+      {
+        "id": 65209,
+        "name": "BIGBANG",
+        "fans": 727660
+      },
+      {
+        "id": 1310497,
+        "name": "Girls' Generation",
+        "fans": 321405
+      },
+      {
+        "id": 1492615,
+        "name": "2NE1",
+        "fans": 404685
+      },
+      {
+        "id": 1020444,
+        "name": "SUPER JUNIOR",
+        "fans": 341296
+      },
+      {
+        "id": 410599,
+        "name": "Wonder Girls",
+        "fans": 68481
+      },
+      {
+        "id": 63705822,
+        "name": "TVXQ!",
+        "fans": 41353
+      },
+      {
+        "id": 1000622,
+        "name": "INFINITE",
+        "fans": 65141
+      },
+      {
+        "id": 2810121,
+        "name": "IU",
+        "fans": 306632
+      },
+      {
+        "id": 398073,
+        "name": "Psy",
+        "fans": 894349
+      },
+      {
+        "id": 178008437,
+        "name": "NewJeans",
+        "fans": 352736
+      },
+      {
+        "id": 153042292,
+        "name": "IVE",
+        "fans": 270998
+      },
+      {
+        "id": 168158797,
+        "name": "LE SSERAFIM",
+        "fans": 329058
+      },
+      {
+        "id": 113547672,
+        "name": "aespa",
+        "fans": 464654
+      },
+      {
+        "id": 3649631,
+        "name": "ITZY",
+        "fans": 905945
+      },
+      {
+        "id": 49280302,
+        "name": "ATEEZ",
+        "fans": 665971
+      },
+      {
+        "id": 15219,
+        "name": "DREAMCATCHER",
+        "fans": 226500
+      },
+      {
+        "id": 150971252,
+        "name": "Billlie",
+        "fans": 11986
+      },
+      {
+        "id": 4181009,
+        "name": "Purple Kiss",
+        "fans": 17632
+      },
+      {
+        "id": 14754433,
+        "name": "ONF",
+        "fans": 9359
+      },
+      {
+        "id": 58547552,
+        "name": "ONEUS",
+        "fans": 104197
+      },
+      {
+        "id": 84624712,
+        "name": "OnlyOneOf",
+        "fans": 10409
+      },
+      {
+        "id": 70306612,
+        "name": "CIX",
+        "fans": 33176
+      },
+      {
+        "id": 111567892,
+        "name": "P1Harmony",
+        "fans": 109682
+      },
+      {
+        "id": 50329992,
+        "name": "Rocket Punch",
+        "fans": 4143
+      },
+      {
+        "id": 68279042,
+        "name": "Cherry Bullet",
+        "fans": 8242
+      },
+      {
+        "id": 49589172,
+        "name": "Weki Meki",
+        "fans": 17639
+      },
+      {
+        "id": 123049382,
+        "name": "TRI.BE",
+        "fans": 13743
+      }
+    ]
+  }
+}
