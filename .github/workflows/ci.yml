@@ -17,7 +17,20 @@ jobs:
         with:
           node-version: 22
           cache: npm
-      - run: npm ci
+      - run: npm i -g npm@10.9.9
+      - name: npm ci
+        id: npmci
+        run: npm ci
+      - name: Diagnóstico do npm ci
+        if: failure() && steps.npmci.outcome == 'failure'
+        run: |
+          echo "::error::npm $(npm -v) / node $(node -v)"
+          LOG=$(ls -t "$HOME"/.npm/_logs/*-debug-0.log 2>/dev/null | head -1)
+          if [ -n "$LOG" ]; then
+            grep -E 'error' "$LOG" | head -25 | while IFS= read -r l; do echo "::error::$l"; done
+          else
+            echo "::error::nenhum log do npm encontrado"
+          fi
       - run: npm test
       - run: npm run typecheck
       - name: Lint (informativo)
